@@ -3,9 +3,9 @@
 
 This is an open-source project that aims to automate an AMBU (Artificial Manual Breathing Unit) device, this is an initiative from ItecCorona - Universidade Federal do Rio Grande (FURG) - Brazil.
 
-
- [AMBUmatic](/img/working.gif)
-
+ <p align="center">
+ <img src="/img/working.gif" width="300" align="center" >
+</p>
 
 
 ## Materials
