@@ -6,7 +6,7 @@ This is an open-source project that aims to automate an AMBU (Artificial Manual 
  <td align="center" width="9999">
     
   ### Prototype
-   <img src="/img/working.gif" width="300" align="center" >
+   <img src="/img/working2.gif" width="300" align="center" >
 
    </td>
    <td align="center" width="9999">
@@ -19,6 +19,9 @@ This is an open-source project that aims to automate an AMBU (Artificial Manual 
  </tr>
 </table>
 
+## Demo
+
+* :movie_camera: [Demo Youtube](https://www.youtube.com/watch?v=EHfG-we2Mx8&feature=youtu.be)
 
 ## Materials
 
